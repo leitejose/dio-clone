@@ -1,15 +1,21 @@
-DIO Clone - Plataforma de Aprendizado
-Descrição
-Este projeto é uma aplicação web que simula uma plataforma de aprendizado online inspirada no modelo da DIO (Digital Innovation One). O objetivo desta aplicação é permitir que usuários se cadastrem, façam login e acessem uma plataforma com conteúdo educacional. A aplicação foi desenvolvida utilizando React.js para o frontend e uma API mockada para gerenciamento dos dados dos usuários.
+# **DIO Clone**
 
-Funcionalidades
-Cadastro de Usuários: Permite que novos usuários se cadastrem na plataforma.
-Login: Autenticação de usuários com validação de email e senha.
-Página de Feed: Acesso ao conteúdo e cursos disponíveis após o login.
-Interface Responsiva: Layout adaptável para diferentes tamanhos de tela.
-Tecnologias Utilizadas
-React.js: Biblioteca JavaScript para construção de interfaces de usuário.
-React Router: Gerenciamento de rotas na aplicação.
-React Hook Form: Gerenciamento de formulários e validação.
-Axios: Cliente HTTP para comunicação com a API.
-Styled Components: Estilização da aplicação utilizando CSS-in-JS.
+## **Descrição**
+
+Este projeto é uma aplicação web que simula uma plataforma de aprendizado online inspirada no modelo da DIO (Digital Innovation One). O objetivo desta aplicação é permitir que os utilizadores façam login e acessem uma plataforma com conteúdo educacional. A aplicação foi desenvolvida utilizando React.js para o frontend.
+
+## **Funcionalidades**
+
+- **Cadastro de Usuários:** Permite que novos usuários se cadastrem na plataforma. *(Em desenvoltimento)*
+- **Login de Usuários:** Usuários cadastrados podem fazer login para acessar o conteúdo da plataforma.
+- **Feed de Conteúdo:** Após o login, os usuários são redirecionados para um feed onde podem acessar o conteúdo educacional.
+- **Recuperação de Senha:** Opção para recuperação de senha em caso de esquecimento.
+
+## **Tecnologias Utilizadas**
+
+- **React.js:** Biblioteca JavaScript para construção da interface de usuário.
+- **React Router:** Para gerenciamento das rotas na aplicação.
+- **Axios:** Para fazer as requisições HTTP para a API mockada.
+- **React Hook Form:** Para gerenciamento de formulários.
+- **Styled Components:** Para estilização dos componentes de forma modular.
+
